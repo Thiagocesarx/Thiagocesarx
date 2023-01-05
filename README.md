@@ -7,9 +7,9 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <a href="https://github.com/Lug7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lug7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lug7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Thiagocesarx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagocesarx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocesarx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     <img align="right" alt="Thiago-pic" height="150" style="border-radius:80px;"src="https://cdn.discordapp.com/attachments/798733917879795715/982708629251706920/kitty__3_1.jpg?width=676&height=676">  
 <div style="display: inline_block"><br>
@@ -30,5 +30,5 @@
   ##
   
 
-  ![snake gif](https://github.com/Lug7/Lug7/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Thiagocesarx/Thiagocesarx/blob/output/github-contribution-grid-snake.svg)
  
